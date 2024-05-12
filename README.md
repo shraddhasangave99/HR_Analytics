@@ -10,4 +10,10 @@ Utilizing data analysis to optimize HR processes and enhance organizational perf
 
 ## Overview
 
+🔹The process involved collecting HR data, cleaning and preparing it for analysis.
+
+🔹Explored patterns and correlations, and generated actionable insights using different tools like Excel, Power BI, Tableau, and SQL.
+
+🔹
+
 
