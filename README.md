@@ -14,6 +14,10 @@ Utilizing data analysis to optimize HR processes and enhance organizational perf
 
 🔹Explored patterns and correlations, and generated actionable insights using different tools like Excel, Power BI, Tableau, and SQL.
 
-🔹
+🔹The insights are used to optimize HR processes, improve decision-making, and enhance organizational performance.
+## Excel Dashboard
+
+![Screenshot (27)](https://github.com/shraddhasangave99/HR_Analytics/assets/153710836/0c3d00fe-d815-4c88-b224-75d7382e9f6b)
+
 
 
